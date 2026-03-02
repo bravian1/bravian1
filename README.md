@@ -1,32 +1,73 @@
-<h1 align="center">Hi 👋, I'm Bravian Nyatoro</h1>
-<h3 align="center">A passionate fullstack software developer from Kenya</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bravian1" alt="bravian1" /></a> </p>
+# Hi there 👋, I'm Bravian Nyatoro
 
-- 🔭 I’m currently working on [Voice Diary](https://voicediary.xyz/)
+<a href="https://bravian.vercel.app">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System+Designer;Full-stack+Developer;AI+Integration+Engineer;Building+Systems+That+Scale" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [dev.to/bravian1](dev.to/bravian1)
-
-- 💬 Ask me about **golang, Laravel**
-
-- 📫 How to reach me **nyatorobravian@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bravian1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bravian1" height="30" width="40" /></a>
-<a href="https://twitter.com/bravke1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bravke1" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    I'm a Full-stack Developer based in Kenya 🇰🇪, driven by the thrill of turning an idea into something that actually works and lives on a screen. With over 4 years of experience, I specialize in architecting scalable systems and integrating large-scale AI models into robust, intuitive products.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="mailto:nyatorobravian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bravian.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dev.to/bravian1"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.linkedin.com/in/bravian-nyatoro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravian1&show_icons=true&locale=en&layout=compact" alt="bravian1" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&locale=en" alt="bravian1" /></p>
+### 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<br/>
+
+### 🚀 Selected Works
+
+| Project | Description | Links |
+| :--- | :--- | :---: |
+| **[Fuel Calc](https://fuelcalc.xyz)** | Precision modeling for fuel consumption and engine efficiency. | [🔗 Visit](https://fuelcalc.xyz) |
+| **[PassAfrika](https://passafrika.xyz)** | Secure blockchain ticketing platform ensuring verifiable event access. | [🔗 Visit](https://passafrika.xyz) |
+| **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | [🔗 Visit](https://webmaker-chi.vercel.app) |
+| **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | [🔗 Visit](https://getsippar.com) |
+| **[Gemini CLI Server](https://github.com/bravian1/gemini_cli_server)** | A robust local server for interacting with Gemini AI models via CLI. | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/gemini_cli_server) |
+| **[Bet Agent](https://github.com/bravian1/bet-agent)** | AI-powered sports betting analysis and automation system. | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/bet-agent) |
+
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bravian's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravian1&theme=tokyonight&hide_border=true&background=0D1117" alt="Bravian's GitHub streak" />
+</p>
+
+<br/>
+
+### 📝 Recent Articles
+
+<!-- blog starts -->
+<!-- blog ends -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
+
+</div>
