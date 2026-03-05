@@ -63,8 +63,8 @@
 
 ### 📝 Recent Articles
 
-<!-- blog starts -->
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
