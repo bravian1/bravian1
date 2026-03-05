@@ -64,6 +64,11 @@
 ### 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Hosted Next.js on $5 Shared Hosting](https://dev.to/bravian1/how-i-hosted-nextjs-on-5-shared-hosting-4mg)
+- [Getting Started with Redis: Installation Guide](https://dev.to/bravian1/getting-started-with-redis-installation-guide-545b)
+- [How a 60-GB ID Leak Proved: Don’t DIY What You Can Delegate to Professionals](https://dev.to/bravian1/how-a-60-gb-id-leak-proved-dont-diy-what-you-can-delegate-to-professionals-2679)
+- [Should We Be Scared of Superintelligence?](https://dev.to/bravian1/should-we-be-scared-of-superintelligence-3b7k)
+- [Building Rate Limiting That Actually Works](https://dev.to/bravian1/building-rate-limiting-that-actually-works-2he9)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
