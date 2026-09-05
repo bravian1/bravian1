@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there 👋, I'm Bravian Nyatoro
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2c4b,100:0D1117&height=170&section=header&text=Bravian%20Nyatoro&fontSize=40&fontColor=f7df1e&fontAlignY=30&desc=Full-stack%20Developer%20%E2%80%A2%20AI%20Integration%20Engineer&descAlignY=55&descSize=18" width="100%" alt="header" />
 
 <a href="https://bravian.vercel.app">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System+Designer;Full-stack+Developer;AI+Integration+Engineer;Building+Systems+That+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=System+Designer;Full-stack+Developer;AI+Integration+Engineer;Building+Systems+That+Scale" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,39 +24,60 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,rust,nextjs,ts,laravel,python,docker,redis,postgres&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,rust,nextjs,ts,laravel,python,docker,redis,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=go,rust,nextjs,ts,laravel,python,docker,redis,postgres&theme=dark" alt="Languages & Tools" />
+  </picture>
 </p>
 
 <br/>
 
 ### 🚀 Selected Works
 
-| Project | Description | Links |
-| :--- | :--- | :---: |
-| **[Baobab POS](https://baobab-pos.co.ke)** | Offline-first point of sale for shops. | [🔗 Visit](https://baobab-pos.co.ke) |
-| **[PassAfrika](https://passafrika.xyz)** | Secure blockchain ticketing platform ensuring verifiable event access. | [🔗 Visit](https://passafrika.xyz) |
-| **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | [🔗 Visit](https://webmaker-chi.vercel.app) |
-| **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | [🔗 Visit](https://getsippar.com) |
-| **[Gemini CLI Server](https://github.com/bravian1/gemini_cli_server)** | A robust local server for interacting with Gemini AI models via CLI. | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/gemini_cli_server) |
-| **[Bet Agent](https://github.com/bravian1/bet-agent)** | AI-powered sports betting analysis and automation system. | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/bet-agent) |
+> **Currently building:** Baobab POS & Gemini CLI Server
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **[Baobab POS](https://baobab-pos.co.ke)** | Offline-first point of sale for shops. | Go · TypeScript | [🔗 Visit](https://baobab-pos.co.ke) |
+| **[PassAfrika](https://passafrika.xyz)** | Secure blockchain ticketing platform ensuring verifiable event access. | Solidity · Next.js | [🔗 Visit](https://passafrika.xyz) |
+| **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | Next.js · Tailwind CSS | [🔗 Visit](https://webmaker-chi.vercel.app) |
+| **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | Laravel · MySQL | [🔗 Visit](https://getsippar.com) |
+| **[Gemini CLI Server](https://github.com/bravian1/gemini_cli_server)** | A robust local server for interacting with Gemini AI models via CLI. | Go · Gemini API | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/gemini_cli_server) |
+| **[Bet Agent](https://github.com/bravian1/bet-agent)** | AI-powered sports betting analysis and automation system. | Go · AI | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/bet-agent) |
 
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
+<p align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&hide_border=true" alt="Bravian's GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bravian1&theme=tokyonight&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bravian1&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=bravian1&hide_border=true" alt="Bravian's GitHub streak" width="49%" />
+  </picture>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bravian1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bravian's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravian1&theme=tokyonight&hide_border=true&background=0D1117" alt="Bravian's GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bravian1&bg_color=0D1117&color=f7df1e&line=58a6ff&point=f7df1e&area=true&area_color=1a2c4b&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bravian1&color=7015c2&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravian1&color=7015c2&area=true&hide_border=true" alt="Bravian's contribution graph" width="98%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bravian1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bravian1&no-frame=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bravian1&no-frame=true&margin-w=4" alt="Bravian's GitHub trophies" width="98%" />
+  </picture>
 </p>
 
 <br/>
@@ -70,6 +91,18 @@
 - [How a 60-GB ID Leak Proved: Don’t DIY What You Can Delegate to Professionals](https://dev.to/bravian1/how-a-60-gb-id-leak-proved-dont-diy-what-you-can-delegate-to-professionals-2679)
 - [Should We Be Scared of Superintelligence?](https://dev.to/bravian1/should-we-be-scared-of-superintelligence-3b7k)
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bravian1/bravian1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bravian1/bravian1/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/bravian1/bravian1/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="98%" />
+  </picture>
+</p>
 
 <br/>
 
