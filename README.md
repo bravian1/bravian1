@@ -42,7 +42,7 @@
 | **[Baobab POS](https://baobab-pos.co.ke)** | Offline-first point of sale for shops. | Next.js · TypeScript | [🔗 Visit](https://baobab-pos.co.ke) |
 | **[PassAfrika](https://passafrika.xyz)** | Secure blockchain ticketing platform ensuring verifiable event access. | Solidity · Next.js | [🔗 Visit](https://passafrika.xyz) |
 | **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | Next.js · Tailwind CSS | [🔗 Visit](https://webmaker-chi.vercel.app) |
-| **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | Laravel · MySQL | [🔗 Visit](https://getsippar.com) |
+| **[Govalve](https://github.com/bravian1/govalve)** | Go library for concurrency, rate-limiting & subscription-based access control in multi-tenant systems. | Go | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/govalve) |
 | **[Gemini CLI Server](https://github.com/bravian1/gemini_cli_server)** | A robust local server for interacting with Gemini AI models via CLI. | Go · Gemini API | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/gemini_cli_server) |
 | **[Social Agent](https://github.com/bravian1/social-agent)** | AI agent that automates X, LinkedIn & WhatsApp engagement by browsing real platforms on a schedule. | Python · Gemini · Streamlit | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/social-agent) |
 
