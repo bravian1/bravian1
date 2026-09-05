@@ -41,7 +41,7 @@
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **[Fuel Calc](https://fuelcalc.xyz)** | Precision modeling for fuel consumption and engine efficiency. | [🔗 Visit](https://fuelcalc.xyz) |
+| **[Baobab POS](https://baobab-pos.co.ke)** | Offline-first point of sale for shops. | [🔗 Visit](https://baobab-pos.co.ke) |
 | **[PassAfrika](https://passafrika.xyz)** | Secure blockchain ticketing platform ensuring verifiable event access. | [🔗 Visit](https://passafrika.xyz) |
 | **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | [🔗 Visit](https://webmaker-chi.vercel.app) |
 | **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | [🔗 Visit](https://getsippar.com) |
