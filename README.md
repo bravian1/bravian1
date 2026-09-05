@@ -44,7 +44,7 @@
 | **[WebMaker Agency](https://webmaker-chi.vercel.app)** | Premium web agency focus on conversions and modern aesthetics. | Next.js · Tailwind CSS | [🔗 Visit](https://webmaker-chi.vercel.app) |
 | **[Sippar](https://getsippar.com)** | Powerful platform to manage organizational petty cash and approvals. | Laravel · MySQL | [🔗 Visit](https://getsippar.com) |
 | **[Gemini CLI Server](https://github.com/bravian1/gemini_cli_server)** | A robust local server for interacting with Gemini AI models via CLI. | Go · Gemini API | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/gemini_cli_server) |
-| **[Bet Agent](https://github.com/bravian1/bet-agent)** | AI-powered sports betting analysis and automation system. | Go · Gemini · PostgreSQL | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/bet-agent) |
+| **[Social Agent](https://github.com/bravian1/social-agent)** | AI agent that automates X, LinkedIn & WhatsApp engagement by browsing real platforms on a schedule. | Python · Gemini · Streamlit | [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="Repo">](https://github.com/bravian1/social-agent) |
 
 
 <br/>
